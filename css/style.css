@@ -1,3 +1,22 @@
-.ciao {
-    background-color: red;
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Header */
+.head {
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.toboo {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 40px;
+    vertical-align: middle;
+}
+.logo {
+    vertical-align: middle;
 }
